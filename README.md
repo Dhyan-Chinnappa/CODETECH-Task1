@@ -1,9 +1,19 @@
-**Name:**DHYAN CHINNAPPA
-**Company:**CODETECH IT SOLUTIONS
+**Name:**
+DHYAN CHINNAPPA
+
+**Company:**
+CODETECH IT SOLUTIONS
+
 **ID:**
-**Domain:**Python Programming
-**Duration:**june to july 2024
-**Mentor:**Neela Santhu
+
+**Domain:**
+Python Programming
+
+**Duration:**
+june to july 2024
+
+**Mentor:**
+Neela Santhu
 
 
 **Overview of the Project**
